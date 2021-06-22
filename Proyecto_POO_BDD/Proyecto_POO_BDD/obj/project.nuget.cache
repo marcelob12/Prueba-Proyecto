@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TDqLRNjIM4obbYr9TtGMa3YSHuTkonXm2JscF02OZ0mh/YuCi9r5wQPE+Sir4fo5tIGKf3yhqcfu50YcFI+17g==",
+  "dgSpecHash": "Vvsrm9N+mZZob78ojWopzqq3IbTNFFaZOwhwsCEObjWzp3XNwyTN3UHxgVUidV2UvB6bZVUbbK2lYajRJEGxiw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\marce\\OneDrive\\Escritorio\\Proyecto_POO_BDD\\Proyecto_POO_BDD\\Proyecto_POO_BDD.csproj",
+  "projectFilePath": "C:\\Users\\marce\\OneDrive\\Documents\\Workspaces\\Prueba-Proyecto\\Proyecto_POO_BDD\\Proyecto_POO_BDD\\Proyecto_POO_BDD.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marce\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\marce\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
